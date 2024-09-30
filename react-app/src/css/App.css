@@ -1,0 +1,19 @@
+/* === Estilos Gerais === */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+*{
+  background-color: #ccc;
+  color: #212121;
+  font-family: "Inter";
+  font-size: 16px;
+}
+
+.containerRight{
+  display: flex;             
+  justify-content: flex-end;
+}
+
+.containerLeft{
+  display: flex;              
+  justify-content: flex-start;
+}
